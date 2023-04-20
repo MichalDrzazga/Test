@@ -1,3 +1,4 @@
 chleb 6
 mleko 3
 masło 7
+ryż 2
